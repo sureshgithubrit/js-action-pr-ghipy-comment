@@ -1,4 +1,4 @@
-name: 'Giphy PR Comment'
+name: 'suresh - Giphy PR Comment'
 description: 'Add a Giphy GIF comment to new pull requests.'
 inputs:
   github-token:
